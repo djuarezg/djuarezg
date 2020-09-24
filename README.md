@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there, my name is Daniel Juarez Gonzalez 👋
+
+## Computer engineer @ CERN
 
 <!--
 **djuarezg/djuarezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on automated installations, CI/CD and Linux support
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on automated installations, CI/CD and Linux support
+- 📫 How to reach me: djuarezg@cern.ch
+- 😄 Speaking: Spanish, English and French
