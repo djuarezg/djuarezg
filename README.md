@@ -2,21 +2,11 @@
 
 ## Computer engineer @ CERN
 
-<!--
-**djuarezg/djuarezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on automated installations, CI/CD and Linux support
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🔭 I’m currently working on automated installations, CI/CD and Linux support
 - 📫 How to reach me: djuarezg@cern.ch
 - 😄 Speaking: Spanish, English and French
+
+* [Linkedin profile](https://www.linkedin.com/in/djuarezg/)
+* [Stackoverflow profile](https://stackoverflow.com/users/6618742/djuarez)
+
+- Interested on technologies, physics, videogames and bad movies.
