@@ -2,7 +2,7 @@
 
 ## Computer engineer
 
-- 🔭 I’m currently working on automated installations, CI/CD and Linux support
+- 🔭 I’m currently a Data DevOps engineer
 - 📫 How to reach me: djuarezg@proton.me
 - 😄 Speaking: Spanish, English and French
 
