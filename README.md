@@ -9,4 +9,4 @@
 * [Linkedin profile](https://www.linkedin.com/in/djuarezg/)
 * [Stackoverflow profile](https://stackoverflow.com/users/6618742/djuarez)
 
-- Interested on technologies, physics, videogames and bad movies.
+- Interested on technology, physics, videogames, cuisine and bad movies, in no particular order
