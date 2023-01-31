@@ -28,7 +28,7 @@
 </a>
 </li>
 <li>
-<a href="[djuarezg@proton.me](https://stackoverflow.com/users/6618742/djuarez)" target="_blank">
+<a href="https://stackoverflow.com/users/6618742/djuarez" target="_blank">
 <img src="https://img.shields.io/badge/Stackoverflow:%20%20Daniel%20Juarez-%23FF5733.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
