@@ -7,7 +7,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Computer engineer
 
 - 🏠 Gijón (Spain 🇪🇸) ➡️ Geneva (Switzerland 🇨🇭)
-- 🎯 I’m currently a Data DevOps engineer, Ex-CERN
+- 🎯 Cloud, SysAdmin and DevOps engineer. Solving problems it my thing. Ex-CERN
 - 😄 Speaking: Spanish, English and French
 - Since not everything is work: Interested on technology, physics, videogames, cuisine and bad movies, in no particular order
 
